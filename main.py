@@ -2,8 +2,8 @@ from telethon import TelegramClient, events
 import time
 
 # Remember to use your own values from my.telegram.org!
-api_id = 6095832
-api_hash = '03946d97853b561a38767fbb1ae136d6'
+api_id = 
+api_hash = 
 
 client = TelegramClient('anon', api_id, api_hash)
 client.start()
